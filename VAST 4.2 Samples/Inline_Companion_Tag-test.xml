@@ -26,7 +26,7 @@
           <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
         </Creative>
         <Creative id="5481" sequence="1" adId="2447226">
-          <Linear>
+          <Linear skipoffset="00:00:08">
             <TrackingEvents>
               <Tracking event="start" ><![CDATA[https://example.com/tracking/start]]></Tracking>
               <Tracking event="progress" offset="00:00:10"><![CDATA[http://example.com/tracking/progress-10]]></Tracking>
