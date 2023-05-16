@@ -19,7 +19,7 @@
         </Creative>
       </Creatives>
       <VASTAdTagURI>
-        <![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%204.2%20Samples/Inline_Companion_Tag-test.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/vcalfa/VAST_Samples/master/VAST%204.2%20Samples/Inline_Companion_Tag-test.xml]]>
       </VASTAdTagURI>
     </Wrapper>
   </Ad>
