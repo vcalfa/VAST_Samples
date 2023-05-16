@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="4.1">
+   <Ad sequence="1" id="45172">
+      <InLine>
+         <AdSystem>SAS</AdSystem>
+         <AdTitle><![CDATA[RBHYGH01323_Vanish_Vanish_Pink_JanApr2023_iprima_cz_floating_W_20-50_video15_Awareness_na_15s]]></AdTitle>
+         <Description><![CDATA[{"akaCode":"","adCategory":"2"}]]></Description>
+         <Error><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/01/fcid=45172/actname=err[ERRORCODE]]]></Error>
+         <Impression id="saisa_imp"><![CDATA[https://a.iprima.cz/iprima/count/FCID=45172/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=01]]></Impression>
+         <Impression id="3rdParty_imp" />
+         <Impression id="3rdParty_imp2" />
+         <Impression id="3rdParty_imp3" />
+         <ViewableImpression>
+            <Viewable><![CDATA[https://a.iprima.cz/iprima/count/FCID=45172/ACT=4/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=01]]></Viewable>
+            <NotViewable><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/01/actname=NotViewable/fcid=45172]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/01/actname=ViewUndetermined/fcid=45172]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative adId="45172" id="45172">
+               <Linear skipoffset="00:00:15">
+                  <Duration>00:00:15</Duration>
+                  <TrackingEvents>
+                     <Tracking event="skip" />
+                     <Tracking event="creativeView"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdCreativeView/fcid=45172]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdStart/fcid=45172]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdMidPoint/fcid=45172]]></Tracking>
+                     <Tracking event="midpoint" />
+                     <Tracking event="firstQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdFirstQuartile/fcid=45172]]></Tracking>
+                     <Tracking event="firstQuartile" />
+                     <Tracking event="thirdQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdThirdQuartile/fcid=45172]]></Tracking>
+                     <Tracking event="thirdQuartile" />
+                     <Tracking event="complete"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=AdComplete/fcid=45172]]></Tracking>
+                     <Tracking event="complete" />
+                     <Tracking event="mute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=Mute/fcid=45172]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=UnMute/fcid=45172]]></Tracking>
+                     <Tracking event="pause"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=Pause/fcid=45172]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=Fullscreen/fcid=45172]]></Tracking>
+                     <Tracking event="exitFullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1/01/actname=ExitFullscreen/fcid=45172]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickThrough id="sasia_click_id"><![CDATA[https://a.iprima.cz/iprima/adclick/FCID=45172/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=01]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" bitrate="400" width="720" height="576" length="15" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0165/3970/cze-sd1_ln-B0sPBq2S.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="720" height="576" length="15" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0165/3970/cze-sd4_ln-tqK1bsEB.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="1280" height="720" length="15" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0165/3970/cze-hd1_ln-IaTHe8UG.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="4200" width="1920" height="1080" length="15" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0165/3970/cze-hd2_ln-4uo4jR8q.mp4]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="15" type="application/x-mpegURL"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0165/3970/cze-sd1_ln-sd4_ln-mE8ltZt4.smil/playlist.m3u8]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="15" type="application/dash+xml"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0165/3970/cze-sd1_ln-sd4_ln-mE8ltZt4.smil/manifest.mpd]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="2" id="45724">
+      <InLine>
+         <AdSystem>SAS</AdSystem>
+         <AdTitle><![CDATA[Vitana_Grilovani_04_05_2023_video_CPV_10s]]></AdTitle>
+         <Description><![CDATA[{"akaCode":"","adCategory":"2"}]]></Description>
+         <Error><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//fcid=45724/actname=err[ERRORCODE]]]></Error>
+         <Impression id="saisa_imp"><![CDATA[https://a.iprima.cz/iprima/count/FCID=45724/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=02]]></Impression>
+         <Impression id="3rdParty_imp"><![CDATA[https://track.adform.net/adfserve/?bn=63517655;1x1inv=1;srctype=3;ord=1646345623e0de]]></Impression>
+         <Impression id="3rdParty_imp2" />
+         <Impression id="3rdParty_imp3" />
+         <ViewableImpression>
+            <Viewable><![CDATA[https://a.iprima.cz/iprima/count/FCID=45724/ACT=4/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=02]]></Viewable>
+            <NotViewable><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=NotViewable/fcid=45724]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=ViewUndetermined/fcid=45724]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative adId="45724" id="45724">
+               <Linear skipoffset="00:00:15">
+                  <Duration>00:00:10</Duration>
+                  <TrackingEvents>
+                     <Tracking event="skip" />
+                     <Tracking event="creativeView"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdCreativeView/fcid=45724]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdStart/fcid=45724]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdMidPoint/fcid=45724]]></Tracking>
+                     <Tracking event="midpoint" />
+                     <Tracking event="firstQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdFirstQuartile/fcid=45724]]></Tracking>
+                     <Tracking event="firstQuartile" />
+                     <Tracking event="thirdQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdThirdQuartile/fcid=45724]]></Tracking>
+                     <Tracking event="thirdQuartile" />
+                     <Tracking event="complete"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdComplete/fcid=45724]]></Tracking>
+                     <Tracking event="complete"><![CDATA[https://track.adform.net/adfserve/?bn=63517654;1x1inv=1;srctype=3;ord=1646345623e0de]]></Tracking>
+                     <Tracking event="mute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Mute/fcid=45724]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=UnMute/fcid=45724]]></Tracking>
+                     <Tracking event="pause"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Pause/fcid=45724]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Fullscreen/fcid=45724]]></Tracking>
+                     <Tracking event="exitFullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=ExitFullscreen/fcid=45724]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickThrough id="sasia_click_id"><![CDATA[https://a.iprima.cz/iprima/adclick/FCID=45724/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=02]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" bitrate="400" width="720" height="576" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0177/8307/cze-sd1_ln-EJdBUmcV.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="720" height="576" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0177/8307/cze-sd4_ln-IxxzXMoH.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="1280" height="720" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0177/8307/cze-hd1_ln-8H8llaZm.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="4200" width="1920" height="1080" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0177/8307/cze-hd2_ln-5nSHAPQx.mp4]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="10" type="application/x-mpegURL"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0177/8307/cze-sd1_ln-sd4_ln-ByBYjbHp.smil/playlist.m3u8]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="10" type="application/dash+xml"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0177/8307/cze-sd1_ln-sd4_ln-ByBYjbHp.smil/manifest.mpd]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="3" id="46228">
+      <InLine>
+         <AdSystem>SAS</AdSystem>
+         <AdTitle><![CDATA[LOREAL_LPD_YSL_LIBRE_OMK_05_2023_15s]]></AdTitle>
+         <Description><![CDATA[{"akaCode":"","adCategory":"2"}]]></Description>
+         <Error><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//fcid=46228/actname=err[ERRORCODE]]]></Error>
+         <Impression id="saisa_imp"><![CDATA[https://a.iprima.cz/iprima/count/FCID=46228/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=03]]></Impression>
+         <Impression id="3rdParty_imp" />
+         <Impression id="3rdParty_imp2" />
+         <Impression id="3rdParty_imp3" />
+         <ViewableImpression>
+            <Viewable><![CDATA[https://a.iprima.cz/iprima/count/FCID=46228/ACT=4/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=03]]></Viewable>
+            <NotViewable><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=NotViewable/fcid=46228]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=ViewUndetermined/fcid=46228]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative adId="46228" id="46228">
+               <Linear skipoffset="00:00:15">
+                  <Duration>00:00:10</Duration>
+                  <TrackingEvents>
+                     <Tracking event="skip" />
+                     <Tracking event="creativeView"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdCreativeView/fcid=46228]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdStart/fcid=46228]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdMidPoint/fcid=46228]]></Tracking>
+                     <Tracking event="midpoint" />
+                     <Tracking event="firstQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdFirstQuartile/fcid=46228]]></Tracking>
+                     <Tracking event="firstQuartile" />
+                     <Tracking event="thirdQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdThirdQuartile/fcid=46228]]></Tracking>
+                     <Tracking event="thirdQuartile" />
+                     <Tracking event="complete"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdComplete/fcid=46228]]></Tracking>
+                     <Tracking event="complete" />
+                     <Tracking event="mute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Mute/fcid=46228]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=UnMute/fcid=46228]]></Tracking>
+                     <Tracking event="pause"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Pause/fcid=46228]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Fullscreen/fcid=46228]]></Tracking>
+                     <Tracking event="exitFullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=ExitFullscreen/fcid=46228]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickThrough id="sasia_click_id"><![CDATA[https://a.iprima.cz/iprima/adclick/FCID=46228/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=03]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" bitrate="400" width="720" height="576" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0178/3413/cze-sd1_ln-R4yE4EMY.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="720" height="576" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0178/3413/cze-sd4_ln-qdqzkQSV.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="1280" height="720" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0178/3413/cze-hd1_ln-bzhvsaLx.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="4200" width="1920" height="1080" length="10" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0178/3413/cze-hd2_ln-TUwMqVTF.mp4]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="10" type="application/x-mpegURL"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0178/3413/cze-sd1_ln-sd4_ln-wp3nhatz.smil/playlist.m3u8]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="10" type="application/dash+xml"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0178/3413/cze-sd1_ln-sd4_ln-wp3nhatz.smil/manifest.mpd]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+   <Ad sequence="4" id="46378">
+      <InLine>
+         <AdSystem>SAS</AdSystem>
+         <AdTitle><![CDATA[Sencor_SDA_kuchynsky_robot_PAUL_45s]]></AdTitle>
+         <Description><![CDATA[{"akaCode":"","adCategory":"2"}]]></Description>
+         <Error><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//fcid=46378/actname=err[ERRORCODE]]]></Error>
+         <Impression id="saisa_imp"><![CDATA[https://a.iprima.cz/iprima/count/FCID=46378/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=LAST]]></Impression>
+         <Impression id="3rdParty_imp" />
+         <Impression id="3rdParty_imp2" />
+         <Impression id="3rdParty_imp3" />
+         <ViewableImpression>
+            <Viewable><![CDATA[https://a.iprima.cz/iprima/count/FCID=46378/ACT=4/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=LAST]]></Viewable>
+            <NotViewable><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=NotViewable/fcid=46378]]></NotViewable>
+            <ViewUndetermined><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE//actname=ViewUndetermined/fcid=46378]]></ViewUndetermined>
+         </ViewableImpression>
+         <Creatives>
+            <Creative adId="46378" id="46378">
+               <Linear skipoffset="00:00:15">
+                  <Duration>00:00:45</Duration>
+                  <TrackingEvents>
+                     <Tracking event="skip" />
+                     <Tracking event="creativeView"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdCreativeView/fcid=46378]]></Tracking>
+                     <Tracking event="start"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdStart/fcid=46378]]></Tracking>
+                     <Tracking event="midpoint"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdMidPoint/fcid=46378]]></Tracking>
+                     <Tracking event="midpoint" />
+                     <Tracking event="firstQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdFirstQuartile/fcid=46378]]></Tracking>
+                     <Tracking event="firstQuartile" />
+                     <Tracking event="thirdQuartile"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdThirdQuartile/fcid=46378]]></Tracking>
+                     <Tracking event="thirdQuartile" />
+                     <Tracking event="complete"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=AdComplete/fcid=46378]]></Tracking>
+                     <Tracking event="complete" />
+                     <Tracking event="mute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Mute/fcid=46378]]></Tracking>
+                     <Tracking event="unmute"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=UnMute/fcid=46378]]></Tracking>
+                     <Tracking event="pause"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Pause/fcid=46378]]></Tracking>
+                     <Tracking event="fullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=Fullscreen/fcid=46378]]></Tracking>
+                     <Tracking event="exitFullscreen"><![CDATA[https://a.iprima.cz/iprima/count/site=Prima_APLIKACE/area=midroll-1//actname=ExitFullscreen/fcid=46378]]></Tracking>
+                  </TrackingEvents>
+                  <VideoClicks>
+                     <ClickThrough id="sasia_click_id"><![CDATA[https://a.iprima.cz/iprima/adclick/FCID=46378/site=Prima_APLIKACE/section=mobile/area=midroll-1/size=spot/duration=135/format=validvast3/formatmt=application%2Fxml/keyword=serialy,zeny,muzi/showname=krejzovi/viewid=1646345623e0de/model=hvod/sex=/age=/s1=/s2=/s3=/GDPR_CONSENT=CPBtIhxPBtIhxAcABBENBNCsAP_AAH_AAAYgF5oBhDxEBSFCAGJoYNkgAAAWxwAAACACAAAAoAAAABoAAAQAAAAAAAAgBAAAABIAIAIAAABAGEAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAACBAAAAAAAAAAAAAAAAAQAAAgXnAeAAWABUAC4AHAAQAAqABoADmAIgAigBMACeAFUALgAXwAxACEgEQARQApQBYgDLAGbAO4A7wCEAEWALSAXUAwIBrAE2gLzAA.f_gAD_gAAAAA/gdpr=1//ADPOS=LAST]]></ClickThrough>
+                  </VideoClicks>
+                  <MediaFiles>
+                     <MediaFile delivery="progressive" bitrate="400" width="720" height="576" length="45" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0176/9700/cze-sd1_ln-EyGTKDtK.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="720" height="576" length="45" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0176/9700/cze-sd4_ln-AwVWAvMy.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="1500" width="1280" height="720" length="45" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0176/9700/cze-hd1_ln-3h1MIlcc.mp4]]></MediaFile>
+                     <MediaFile delivery="progressive" bitrate="4200" width="1920" height="1080" length="45" type="video/mp4"><![CDATA[https://prima-ott.ssl.cdn.cra.cz/vod/0176/9700/cze-hd2_ln-afkpKZuF.mp4]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="45" type="application/x-mpegURL"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0176/9700/cze-sd1_ln-sd4_ln-MNv3wVVV.smil/playlist.m3u8]]></MediaFile>
+                     <MediaFile delivery="streaming" width="720" height="576" length="45" type="application/dash+xml"><![CDATA[https://prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/_definst_/0176/9700/cze-sd1_ln-sd4_ln-MNv3wVVV.smil/manifest.mpd]]></MediaFile>
+                  </MediaFiles>
+               </Linear>
+            </Creative>
+         </Creatives>
+      </InLine>
+   </Ad>
+</VAST>
